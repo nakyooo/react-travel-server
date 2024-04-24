@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tourist_route_pictures",
+  "info": {
+    "singularName": "tourist-route-picture",
+    "pluralName": "tourist-route-pictures",
+    "displayName": "touristRoutePicturePicture",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
